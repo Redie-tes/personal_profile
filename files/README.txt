@@ -1,0 +1,1 @@
+This is my personal website. Intended to learn basic frontend development.
